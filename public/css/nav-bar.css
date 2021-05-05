@@ -1,0 +1,21 @@
+.nav-bar-header {
+    background-color: rgb(211, 196, 59);
+    padding: 1%;
+}
+
+.nav-bar-list-item > a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin: 10px 10px;
+    height: 40px;
+}
+
+.nav-bar-list {
+    list-style: none;
+    display: flex;
+}
+
+a:hover {
+    color: blue;
+}

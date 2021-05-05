@@ -1,0 +1,23 @@
+.book-title, .book-summary  {
+    margin: 50px 0px;
+    font-size:x-large;
+}
+
+#summary {
+    width: 90%;
+}
+
+button {
+    width: 200px;
+    height: 60px;
+    font-size: 100%;
+}
+
+button:hover {
+    color: white;
+    background-color: blue;
+}
+
+form {
+    align-items: center;
+}
